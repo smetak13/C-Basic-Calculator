@@ -1,0 +1,11 @@
+/home/simon/dev/c#/learning/calculator/bin/Debug/netcoreapp3.0/calculator
+/home/simon/dev/c#/learning/calculator/bin/Debug/netcoreapp3.0/calculator.deps.json
+/home/simon/dev/c#/learning/calculator/bin/Debug/netcoreapp3.0/calculator.runtimeconfig.json
+/home/simon/dev/c#/learning/calculator/bin/Debug/netcoreapp3.0/calculator.runtimeconfig.dev.json
+/home/simon/dev/c#/learning/calculator/bin/Debug/netcoreapp3.0/calculator.dll
+/home/simon/dev/c#/learning/calculator/bin/Debug/netcoreapp3.0/calculator.pdb
+/home/simon/dev/c#/learning/calculator/obj/Debug/netcoreapp3.0/calculator.csprojAssemblyReference.cache
+/home/simon/dev/c#/learning/calculator/obj/Debug/netcoreapp3.0/calculator.AssemblyInfoInputs.cache
+/home/simon/dev/c#/learning/calculator/obj/Debug/netcoreapp3.0/calculator.AssemblyInfo.cs
+/home/simon/dev/c#/learning/calculator/obj/Debug/netcoreapp3.0/calculator.dll
+/home/simon/dev/c#/learning/calculator/obj/Debug/netcoreapp3.0/calculator.pdb
